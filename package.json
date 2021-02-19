@@ -1,0 +1,20 @@
+{
+    "name": "wwtbab2",
+    "version": "1.0.0",
+    "description": "api app with Express mongoDb nodejs",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodmon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HILMIONELL97/Who_want_to_be_a_Billionaire.git"
+    },
+    "author": "HILMIONELL",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/HILMIONELL97/Who_want_to_be_a_Billionaire/issues"
+    },
+    "homepage": "https://github.com/HILMIONELL97/Who_want_to_be_a_Billionaire#readme"
+}
