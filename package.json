@@ -16,5 +16,8 @@
     "bugs": {
         "url": "https://github.com/HILMIONELL97/Who_want_to_be_a_Billionaire/issues"
     },
-    "homepage": "https://github.com/HILMIONELL97/Who_want_to_be_a_Billionaire#readme"
+    "homepage": "https://github.com/HILMIONELL97/Who_want_to_be_a_Billionaire#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
 }
